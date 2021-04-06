@@ -10,6 +10,8 @@ newterm
 gruvbox (dark)
 
 Change font to Jetbrains Mono
+
+alpha
 ## Installation
 Clone the repo.
 
