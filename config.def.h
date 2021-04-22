@@ -94,7 +94,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.75, alphaUnfocused = 0.6;
+float alpha = 0.75;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
@@ -127,7 +127,6 @@ static const char *colorname[] = {
  */
 unsigned int defaultfg = 15;
 unsigned int defaultbg = 0;
-unsigned int bg = 0, bgUnfocused = 16;
 static unsigned int defaultcs = 15;
 static unsigned int defaultrcs = 0;
 

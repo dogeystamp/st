@@ -14,8 +14,6 @@ Change font to Jetbrains Mono
 alpha
 
 xresources
-
-focus
 ## Installation
 Clone the repo.
 
