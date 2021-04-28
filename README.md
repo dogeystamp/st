@@ -12,6 +12,8 @@ gruvbox (dark)
 Change font to Jetbrains Mono
 
 alpha
+
+anysize
 ## Installation
 Clone the repo.
 
