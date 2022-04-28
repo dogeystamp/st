@@ -100,25 +100,25 @@ float alpha = 0.1;
 static const char *colorname[] = {
 
   /* 8 normal colors */
-  [0] = "#000000", /* hard contrast: #1d2021 / soft contrast: #32302f */
-  [1] = "#cc241d", /* red     */
-  [2] = "#00dd00", /* green   */
-  [3] = "#aacc00", /* yellow  */
-  [4] = "#0099bb", /* blue    */
-  [5] = "#cc00cc", /* magenta */
-  [6] = "#00bbbb", /* cyan    */
+  [0] = "#000000", /* black   */
+  [1] = "#505050", /* red     */
+  [2] = "#757575", /* green   */
+  [3] = "#909090", /* yellow  */
+  [4] = "#959595", /* blue    */
+  [5] = "#aaaaaa", /* magenta */
+  [6] = "#dddddd", /* cyan    */
   [7] = "#ffffff", /* white   */
 
   /* 8 bright colors */
-  [8]  = "#928374", /* black   */
-  [9]  = "#fb4934", /* red     */
-  [10] = "#d8db46", /* green   */
-  [11] = "#ccff00", /* yellow  */
-  [12] = "#0099dd", /* blue    */
-  [13] = "#ff00ff", /* magenta */
-  [14] = "#00ffff", /* cyan    */
+  [8]  = "#050505", /* black   */
+  [9]  = "#aaaaaa", /* red     */
+  [10] = "#bbbbbb", /* green   */
+  [11] = "#c5c5c5", /* yellow  */
+  [12] = "#cccccc", /* blue    */
+  [13] = "#d5d5d5", /* magenta */
+  [14] = "#dddddd", /* cyan    */
   [15] = "#ffffff", /* white   */
-  [16] = "black", /* black   */
+  [16] = "#000000", /* black   */
 };
 
 /*
